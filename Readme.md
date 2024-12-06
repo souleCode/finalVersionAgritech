@@ -98,7 +98,7 @@ _Meilleur Modèle_ : Random Forest
 - Approche de Traitement du Langage Naturel
 - Modèles avancés utilisés :
   - Llama 3.1 (70B-versatile) pour le traitement des données textuelles
-  - Groc pour l'optimisation des réponses
+  - Groq pour l'optimisation des réponses
 
 ## Installation
 
