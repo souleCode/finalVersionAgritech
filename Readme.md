@@ -8,6 +8,8 @@ AgriTech est une application avancée basée sur l'apprentissage automatique, co
 ![image app](https://github.com/souleCode/finalVersionAgritech/blob/5ed86c17a9da567c43576f33216e11f8e08d41a3/home.PNG)
 
 AgriTech répond à des besoins agricoles critiques grâce à trois fonctionnalités clés :
+*Structure du modele de Production agricole (Recommandation et Prediction du rendement agricole)*
+![image structure du modele de producttion](url)
 
 
 - Recommandation de Culture
@@ -94,10 +96,11 @@ _Meilleur Modèle_ : Random Forest
 - Classification précise des maladies à partir d'images
 
 #### Recommandation de Traitement
+![image structure du modele de traitement des maladies vegetales](url)
 
 - Approche de Traitement du Langage Naturel
 - Modèles avancés utilisés :
-  - Llama 3.1 (70B-versatile) pour le traitement des données textuelles
+  - Llama 3.1 (70B-versatile) pour le traitement des données textuelles. En effet ce modele sera utilisé pour nous proposer un traitement des maladies detectées par notre modele YOLO. Ce modele a ete juste ete soumis a un prompt engineering car nous n'avons pas assez de données pour faire le RAG.
   - Groq pour l'optimisation des réponses
 
 ## Installation
