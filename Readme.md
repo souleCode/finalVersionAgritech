@@ -33,6 +33,7 @@ AgriTech répond à des besoins agricoles critiques grâce à trois fonctionnali
 ## Fonctionnalités Principales
 
 ### 1. Système de Recommandation de Culture
+![image recommandation] (url)
 
 #### Caractéristiques Utilisées
 
