@@ -56,6 +56,7 @@ AgriTech répond à des besoins agricoles critiques grâce à trois fonctionnali
 _Meilleur Modèle_ : Naïve Bayes avec 99% de précision
 
 ### 2. Prédiction de Production Agricole
+![image prediction app](https://github.com/souleCode/finalVersionAgritech/blob/f50b6d1d45f5b878f423e4aa2bd635c82fc4f2f1/pred.PNG)
 
 #### Caractéristiques Utilisées
 
