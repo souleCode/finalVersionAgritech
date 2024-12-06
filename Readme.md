@@ -85,6 +85,7 @@ _Meilleur Modèle_ : Random Forest
 - Score R² : 0.9867
 
 ### 3. Reconnaissance et Recommandation de Traitement des Maladies des Plantes
+![image sante vegetal](url)
 
 #### Reconnaissance des Maladies
 
