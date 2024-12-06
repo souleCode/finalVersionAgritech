@@ -85,7 +85,7 @@ _Meilleur Modèle_ : Random Forest
 - Score R² : 0.9867
 
 ### 3. Reconnaissance et Recommandation de Traitement des Maladies des Plantes
-![image sante vegetal](url)
+![image sante vegetal]([url](https://github.com/souleCode/finalVersionAgritech/blob/54d41bb5e0efd546018e43c5422d26ab95be5b1e/sante%20vege.jpg))
 
 #### Reconnaissance des Maladies
 
