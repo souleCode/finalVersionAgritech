@@ -35,7 +35,7 @@ AgriTech répond à des besoins agricoles critiques grâce à trois fonctionnali
 ## Fonctionnalités Principales
 
 ### 1. Système de Recommandation de Culture
-![image recommandation] (https://github.com/souleCode/finalVersionAgritech/blob/7eccaeb72d478a2d661c74733cd5a89cf493d74e/recomm.PNG)
+![image recommandation](https://github.com/souleCode/finalVersionAgritech/blob/7eccaeb72d478a2d661c74733cd5a89cf493d74e/recomm.PNG)
 
 #### Caractéristiques Utilisées
 
@@ -87,7 +87,7 @@ _Meilleur Modèle_ : Random Forest
 - Score R² : 0.9867
 
 ### 3. Reconnaissance et Recommandation de Traitement des Maladies des Plantes
-![image sante vegetal]([url](https://github.com/souleCode/finalVersionAgritech/blob/54d41bb5e0efd546018e43c5422d26ab95be5b1e/sante%20vege.jpg))
+![image sante vegetal](https://github.com/souleCode/finalVersionAgritech/blob/54d41bb5e0efd546018e43c5422d26ab95be5b1e/sante%20vege.jpg)
 
 #### Reconnaissance des Maladies
 
