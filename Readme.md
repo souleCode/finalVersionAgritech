@@ -109,7 +109,7 @@ _Meilleur Modèle_ : Random Forest
 
 1. Cloner le dépôt
    bash
-   git clone https://github.com/votre-nom/agritech.git
+   git clone [https://github.com/votre-nom/agritech.git](https://github.com/souleCode/finalVersionAgritech)
    cd agritech
 
 2. Installer les dépendances backend
@@ -127,6 +127,8 @@ _Meilleur Modèle_ : Random Forest
    pip install -r requirements.txt
 
 ## Contribution
+ Ce projet est Open Source donc il reste ouvert a toute la communauté pour n'importe qu'elle modification ou retour constructif.
+ Pour l'utiliser vous avez juste besoin de suivre les etapes suivantes:
 
 1. Forker le dépôt
 2. Créer une branche de fonctionnalité (git checkout -b feature/MaFantastiqueFonctionnalite)
