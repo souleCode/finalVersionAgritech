@@ -96,7 +96,7 @@ _Meilleur Modèle_ : Random Forest
 - Classification précise des maladies à partir d'images
 
 #### Recommandation de Traitement
-![image structure du modele de traitement des maladies vegetales](url)
+![image structure du modele de traitement des maladies vegetales](https://github.com/souleCode/finalVersionAgritech/blob/58b73a96d45c1f837e8c1b71335a6efcb6ba2dda/Llma.png)
 
 - Approche de Traitement du Langage Naturel
 - Modèles avancés utilisés :
