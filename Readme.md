@@ -9,7 +9,7 @@ AgriTech est une application avancée basée sur l'apprentissage automatique, co
 
 AgriTech répond à des besoins agricoles critiques grâce à trois fonctionnalités clés :
 *Structure du modele de Production agricole (Recommandation et Prediction du rendement agricole)*
-![image structure du modele de producttion]([url](https://github.com/souleCode/finalVersionAgritech/blob/e53939f35f968ea0fa55badb11e4eb3b9e0221b0/strct_pred.png))
+![image structure du modele de producttion](https://github.com/souleCode/finalVersionAgritech/blob/e53939f35f968ea0fa55badb11e4eb3b9e0221b0/strct_pred.png)
 
 
 - Recommandation de Culture
